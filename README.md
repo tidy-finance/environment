@@ -13,6 +13,8 @@ This repository helps you to set up a development environment where you can work
   b. `"PATH"` on Windows: `"C:/Users/<User>/AppData/Local/r-reticulate/r-reticulate/pyenv/pyenv-win/versions/3.10.11/python.exe"` where `<User>` is your user name
 1. Tell `renv` to install all required packages: `renv::restore()`
 
+We decided to use Python version 3.10.11, after many trial and errors to set-up the environment that we used to write [Tidy Finance with Python](https://www.tidy-finance.org/python/) and maintain [Tidy Finance with R](https://www.tidy-finance.org/r/) using both Windows and Mac.
+
 ## Set Environment Variables
 
 We use environment variables to secretly store our WRDS login credentials. 
