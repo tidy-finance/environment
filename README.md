@@ -1,6 +1,8 @@
 # Tidy Finance Environment
 
-:exclamation: Please consider creating an issue in this repository if you run into any problems, so that other people can also look them up in the future. 
+::: {.callout-note}
+Please consider creating an issue in this repository if you run into any problems, so that other people can also look them up in the future. 
+:::
 
 This repository helps you to set up a development environment where you can work with both R and Python using the RStudio IDE. 
 
