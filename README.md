@@ -4,7 +4,7 @@
 
 This repository helps you to set up a development environment where you can work with both R and Python using the RStudio IDE. 
 
-1. Install [R](https://cran.r-project.org/bin/windows/base/) and [RStudio](https://posit.co/download/rstudio-desktop/)
+1. Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git), [R](https://cran.r-project.org/bin/windows/base/), and [RStudio](https://posit.co/download/rstudio-desktop/)
 1. [Download or clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the [Tidy Finance Environment](https://github.com/tidy-finance/environment) repository
 1. Open `environment.Rproj` in the environment folder that you just downloaded (your R session will then automatically install the R package  `renv`, if not run `install.packages("renv")`)
 1. Install the R package `reticulate` (an interface to Python): `install.packages("reticulate")`
